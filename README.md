@@ -2,11 +2,7 @@ Machine learning
 
 # **Injection molding machine monitoring problem**
 
-# Classification
-
-![](RackMultipart20211023-4-7sydqz_html_a0243959dbc46b8f.png)
-
-# ![](RackMultipart20211023-4-7sydqz_html_5b192d22d6b98cdf.jpg)
+# Product quality classification
 
 # Introduction
 
