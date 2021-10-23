@@ -17,7 +17,6 @@ from torch.nn import Module
 from torch.optim import SGD
 import scipy.io
 
-from mlp import MLP
 from neural_network import NeuralNetwork
 
 
