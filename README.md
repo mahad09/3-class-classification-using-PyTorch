@@ -1,11 +1,6 @@
-> Machine learning\
+> Machine learning
+
 > **Injection molding machine monitoring problem** Classiﬁcation
-
-![](27e8ec5f0c40489a990a2f2dbfc1fdb1/media/image1.png){width="6.499998906386701in"
-height="4.1666666666666664e-2in"}
-
-![](27e8ec5f0c40489a990a2f2dbfc1fdb1/media/image2.png){width="6.488888888888889in"
-height="4.634722222222222in"}
 
 > **Introduction**
 
